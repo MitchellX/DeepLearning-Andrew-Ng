@@ -7,7 +7,26 @@
 | [课程1 - 神经网络和深度学习](https://mooc.study.163.com/learn/2001281002?tid=2403023003#/learn/announce) | 第1周 | 深度学习简介 | [测验](https://blog.csdn.net/u013733326/article/details/79862336) |
 | test                                                                                                   | 第2周 | 神经网络基础 | [测验](https://blog.csdn.net/u013733326/article/details/79865858) |
 
-
+<table>
+   <tr>
+      <td>John</td>
+      <td>Smith</td>
+      <td>123 Main St.</td>
+      <td>Springfield</td>
+   </tr>
+   <tr>
+      <td>Mary</td>
+      <td>Jones</td>
+      <td>456 Pine St.</td>
+      <td>Dover</td>
+   </tr>
+   <tr>
+      <td>Jim</td>
+      <td>Baker</td>
+      <td>789 Park Ave.</td>
+      <td>Lincoln</td>
+   </tr>
+</table>
 
 课程	周数	名称	类型	语言	地址
 课程1 - 神经网络和深度学习	第1周	深度学习简介	测验	中英	传送门
